@@ -10,8 +10,8 @@ public class TClass {
 	
 	public void Employee(){
 	      /* Create two objects using constructor */
-	      Employee empOne = new Employee("James Smith");
-	      Employee empTwo = new Employee("Mary Anne");
+	      Employee empOne = new Employee("Rajnish Kumar");
+	      Employee empTwo = new Employee("Rashyap Sahi");
 
 	      // Invoking methods for each object created
 	      empOne.empAge(26);
